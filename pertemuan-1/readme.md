@@ -2,11 +2,6 @@
 
 Tools : [Jupyter Classic Notebook](https://jupyter.org/try)
 
-Kamus Slangword & Stopword : 
-- [GitHub](https://github.com/louisowen6/NLP_bahasa_resources)
-- [Google Drive](https://drive.google.com/drive/folders/11dL25bqsFdID7cR0DMNorIzAANSMsQkF?usp=sharing)
-
-
 ## Paket Install
 
 Gunakan paket manager [pip](https://pip.pypa.io/en/stable/) untuk install:
