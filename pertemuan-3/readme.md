@@ -46,7 +46,7 @@ for tweet in dataFrame['tweet']:
 				break
 		
 		# Hitung jumlah kata negatif
-		for kataNegatif in dataFrameKataNegatif['negative_word']:	# loop data kata negatif
+		for kataNegatif in dataFrameKataNegatif['negative_word']:	# loop data kata positif
 			if kataTweet == kataNegatif:
 				jumlahNegatif += 1
 				break
