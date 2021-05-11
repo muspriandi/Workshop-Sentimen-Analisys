@@ -4,7 +4,7 @@ Tools : [Jupyter Classic Notebook](https://jupyter.org/try)
 
 Kamus Kata Positif & Kata Negatif : 
 - [GitHub](https://github.com/louisowen6/NLP_bahasa_resources)
-- [Google Drive](https://www.google.com)
+- [Google Drive](https://drive.google.com/drive/folders/11dL25bqsFdID7cR0DMNorIzAANSMsQkF?usp=sharing)
 
 
 ## Paket Install
