@@ -13,7 +13,7 @@ Gunakan paket manager [pip](https://pip.pypa.io/en/stable/) untuk install:
 
 ```bash
 pip install xlrd
-
+pip install openpyxl
 ```
 
 ## Bagian 3 - Pelabelan Data
